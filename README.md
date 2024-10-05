@@ -1,1 +1,1 @@
-Was an amazing exprience for the first time. It was my first ever hackathon. Had a few technical issues we didnt make it to the final round but we made it till the 3rd round. My team mates @TokiG0 @AwakenZombie42 @0mkarnarkar.
+Was an amazing exprience for the first time. It was my first ever hackathon. Had a few technical issues we didnt make it to the final round but we made it till the 3rd round. My team mates [@TokiG0](https://github.com/TokiG0) [@AwakenZombie42](https://github.com/AwakenZombie42) [@0mkarnarkar](https://github.com/0mkarnarkar).
