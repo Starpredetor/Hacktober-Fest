@@ -1,9 +1,8 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
     const int a = 10;
-    b = 11;
-    a = 100;
+    int b = 11;
     b = 110;
 }
