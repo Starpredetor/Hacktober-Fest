@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int *ptr = new int(5);
-    delete ptr;
     cout << *ptr << endl;
+    delete ptr;
     return 0;
 }
