@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-void display(int);
-void display()
+void display();
+void display(int a)
 {
-    cout << "Display";
+    cout << "Display"<< a;
 }
 int main()
 {
