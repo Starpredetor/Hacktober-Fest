@@ -1,8 +1,9 @@
-#include <iostream>
-#include <string>
+#include<iostream>
+#include<string>
+using namespace std;
 int main()
 {
-    std::Array name = Alice;
-    std::cout << "Hello, " << place;
+    string name = "Alice";
+    cout << "Hello, " << name;
     return 0;
 }
