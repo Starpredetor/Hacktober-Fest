@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        char ch = 'abc';
+        char ch = 'a';  // char datatype can contain only 1 character
         System.out.println(ch);
     }
 }
