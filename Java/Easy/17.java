@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        int value = null;
+        String value = null;
         System.out.println(value);
     }
 }
